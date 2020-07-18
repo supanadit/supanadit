@@ -4,11 +4,11 @@
 
 ##### Programming Language
 
-PHP, Java, Typescript, Go, Javascript, Dart, Python, Kotlin, Rust, Lua, C#, VB.net, Ruby
+PHP, Java, Typescript, Go, Javascript, Dart, Python, Kotlin, Rust, Lua, C#, VB.net, Ruby.
 
 ##### Frameworks
 
-Flutter, Angular, Ionic, Codeigniter, Laravel, Gin, Labstack Echo, Gorilla Toolkit, Lumen, Wordpress, Flask, Directus, Javalin, Spring MVC, Spring Boot, Odoo, Sinatra, Express.
+Flutter, Angular, Ionic, Codeigniter, Laravel, Gin, Labstack Echo, Gorilla Toolkit, Lumen, Wordpress, Flask, Directus, Javalin, Spring MVC, Spring Boot, Odoo, Sinatra, Express, October CMS.
 
 ##### Database
 
