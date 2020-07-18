@@ -1,6 +1,6 @@
 ### Software Engineer
 
-21 years old programmer, with 3 years experience in IT Industry especially at IT Consultant Company, no **Bachelor** degree, only got **High School** degree as **Software Engineer**, yeah in my country **High School** has some specific working type which you can choose before, at high school i learn PHP, VB. Net, Java, C++, C and Android **Cool Right !**
+21 years old programmer, with 3 years experience in IT Industry especially at IT Consultant Company, no **Bachelor** degree, only got **High School** degree as **Software Engineer**, yeah in my country **High School** has some specific working type which you can choose before, at high school we have learn PHP, VB. Net, Java, C++, C and Android **Cool Right !**
 
 ##### Programming Language
 
