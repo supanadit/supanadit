@@ -6,7 +6,7 @@
 
 ##### Programming Language
 
-PHP, Java, Typescript, Go, Javascript, Dart, Python, Kotlin, Rust, Lua, C#, VB.net, Ruby.
+PHP, Java, Typescript, Go, Javascript, Dart, Python, Kotlin, Rust, Lua, C#, VB.net, Ruby, C++, C.
 
 ##### Frameworks
 
