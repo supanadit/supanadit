@@ -2,8 +2,6 @@
 
 21 years old programmer, with 3 years experience in IT Industry especially at IT Consultant Company, no **Bachelor** degree, only got **High School** degree as **Software Engineer**, yeah in my country **High School** has some specific working type which you can choose before, at high school we have learn PHP, VB. Net, Java, C++, C and Android **Cool Right !**
 
-***I am programmer who making simple & high quality application for the users perspective, and not making application from programmer persective to be called professional programmer but ugly, unusable, useless and uncomfortable.***
-
 ##### Programming Language
 
 PHP, Java, Typescript, Go, Javascript, Dart, Python, Kotlin, Rust, Lua, C#, VB.net, Ruby, C++, C.
