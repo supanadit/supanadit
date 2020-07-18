@@ -14,7 +14,7 @@ Flutter, Angular, Ionic, Codeigniter, Laravel, Gin, Labstack Echo, Gorilla Toolk
 
 ##### Database
 
-MySQL, PostgreSQL, Redis, MongoDB, CoachDB, Tile38, H2.
+MySQL, PostgreSQL, Redis, MongoDB, CoachDB, Tile38, H2, Cockroach DB.
 
 ##### ORM
 
