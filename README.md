@@ -24,7 +24,7 @@ Docker, Websocket, Socket IO, Server Sent Event, Love 2D, Qt, Java FX, Java Swin
 
 ##### Tools
 
-Gimp, Inkscape, Jupyter Notebook, Mark Text, Intellij IDEA, Webstorm, PHP Storm, Datagrip, Intellij IDEA, Goland, Clion, Pycharm, Rider, Rubymine, Android Studio, Postman, Blender, Ngrok.
+Gimp, Inkscape, Jupyter Notebook, Mark Text, Intellij IDEA, Webstorm, PHP Storm, Datagrip, Intellij IDEA, Goland, Clion, Pycharm, Rider, Rubymine, Android Studio, Postman, Blender, Ngrok, Figma, Gravit.
 
 ##### Web Service
 
