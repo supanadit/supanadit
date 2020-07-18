@@ -20,7 +20,7 @@ Hibernate, GORM, Doctrine, SQLAlchemy.
 
 ##### Others
 
-Docker, Websocket, Socket IO, Server Sent Event, Love 2D, Qt, Java FX, Java Swing, Node JS, JQuery, Angular JS, JWT.
+Docker, Websocket, Socket IO, Server Sent Event, Love 2D, Qt, Java FX, Java Swing, Node JS, JQuery, Angular JS, JWT, Kubernetes.
 
 ##### Tools
 
