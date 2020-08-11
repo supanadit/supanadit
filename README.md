@@ -1,7 +1,3 @@
-### Software Engineer
-
-21 years old programmer, with 3 years experience in IT Industry especially at IT Consultant Company.
-
 ##### Programming Language
 
 PHP, Java, Typescript, Go, Javascript, Dart, Python, Kotlin, Rust, Lua, C#, VB.net, Ruby, C++, C.
