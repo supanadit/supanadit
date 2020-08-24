@@ -29,6 +29,10 @@ Apache, Jetty, Apache Wildfly, Apache Tomcat, Nginx.
 
 ##### Donation
 
-![Donation](https://i.ibb.co/PwNNk5s/My-Etherium.png)
+![Bitcoin](https://supanadit.com/wp-content/uploads/Bitcoin.png)
 
-0xe866189A4B662D01Ca4D468952cC4371Eaaf5d70
+bc1qzfh9462ua5mlxzddx7ukuzjj3mylhmy0a3czm8
+
+![Ethereum](https://supanadit.com/wp-content/uploads/Ethereum.png)
+
+0x55b07B70Bb005D905d9989A7e0B83B4b6fEfAe22
