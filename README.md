@@ -30,4 +30,5 @@ Apache, Jetty, Apache Wildfly, Apache Tomcat, Nginx.
 ##### Donation
 
 Bitcoin : bc1qzfh9462ua5mlxzddx7ukuzjj3mylhmy0a3czm8
+
 Ethereum : 0x55b07B70Bb005D905d9989A7e0B83B4b6fEfAe22
