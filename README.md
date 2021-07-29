@@ -16,7 +16,7 @@ Hibernate, GORM, Doctrine, SQLAlchemy, Peewee.
 
 ##### Others
 
-Docker, Websocket, Socket IO, Server Sent Event, Love 2D, Qt, Java FX, Java Swing, Node JS, JQuery, Angular JS, JWT, Kubernetes, CMake, Ninja Build, Maven, Gradle, Composer.
+Docker, Websocket, Socket IO, Server Sent Event, Love 2D, Qt, Java FX, Java Swing, Node JS, JQuery, Angular JS, JWT, Kubernetes, CMake, Ninja Build, Maven, Gradle, Composer, Panda, NumPy.
 
 ##### Tools
 
