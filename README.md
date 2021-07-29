@@ -12,7 +12,7 @@ MySQL, PostgreSQL, Redis, MongoDB, CoachDB, Tile38, H2, Cockroach DB.
 
 ##### ORM
 
-Hibernate, GORM, Doctrine, SQLAlchemy.
+Hibernate, GORM, Doctrine, SQLAlchemy, Peewee.
 
 ##### Others
 
@@ -22,9 +22,9 @@ Docker, Websocket, Socket IO, Server Sent Event, Love 2D, Qt, Java FX, Java Swin
 
 Gimp, Inkscape, Jupyter Notebook, Mark Text, Intellij IDEA, Webstorm, PHP Storm, Datagrip, Intellij IDEA, Goland, Clion, Pycharm, Rider, Rubymine, Android Studio, Postman, Blender, Ngrok, Figma, Gravit.
 
-##### Web Service
+##### Web Servers
 
-Apache, Jetty, Apache Wildfly, Apache Tomcat, Nginx.
+Apache, Jetty, Apache Wildfly, Apache Tomcat, Nginx, Caddy.
 
 
 ##### Donation
