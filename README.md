@@ -1,3 +1,7 @@
+## Notes
+
+Currently active on Gitlab and Bitbucket, Sometimes on Github for open source thing.
+
 ##### Programming Language
 
 PHP, Java, Typescript, Go, Javascript, Dart, Python, Kotlin, Rust, Lua, C#, VB.net, Ruby, C++, C.
