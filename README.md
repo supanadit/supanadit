@@ -1,6 +1,6 @@
 ## Notes
 
-Currently active on Gitlab and Bitbucket, Sometimes on Github for open source thing.
+Currently active on **Gitlab** and **Bitbucket**, Sometimes on Github for open source thing.
 
 ##### Programming Language
 
