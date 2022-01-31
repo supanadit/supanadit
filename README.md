@@ -2,36 +2,34 @@
 
 Currently active on **Gitlab** and **Bitbucket**, Sometimes on Github for open source thing.
 
-##### Programming Language
+### Want To Work With Me
 
-PHP, Java, Typescript, Go, Javascript, Dart, Python, Kotlin, Rust, Lua, C#, VB.net, Ruby, C++, C.
+Email To : email@supanadit.com
 
-##### Frameworks
+### My Awesome Work
 
-Flutter, Angular, Ionic, Codeigniter, Laravel, Gin, Labstack Echo, Gorilla Toolkit, Lumen, Wordpress, Flask, Directus, Javalin, Spring MVC, Spring Boot, Odoo, Sinatra, Express, October CMS.
+#### Active Project
 
-##### Database
-
-MySQL, PostgreSQL, Redis, MongoDB, CoachDB, Tile38, H2, Cockroach DB.
-
-##### ORM
-
-Hibernate, GORM, Doctrine, SQLAlchemy, Peewee.
-
-##### Others
-
-Docker, Websocket, Socket IO, Server Sent Event, Love 2D, Qt, Java FX, Java Swing, Node JS, JQuery, Angular JS, JWT, Kubernetes, CMake, Ninja Build, Maven, Gradle, Composer, Panda, NumPy.
-
-##### Tools
-
-Gimp, Inkscape, Jupyter Notebook, Mark Text, Intellij IDEA, Webstorm, PHP Storm, Datagrip, Intellij IDEA, Goland, Clion, Pycharm, Rider, Rubymine, Android Studio, Postman, Blender, Ngrok, Figma, Gravit.
-
-##### Web Servers
-
-Apache, Jetty, Apache Wildfly, Apache Tomcat, Nginx, Caddy.
+- [Short URL](https://github.com/supanadit/short-url) Bit.ly Alternative - Laravel
+- [Todo](https://github.com/supanadit/todo) Simple Todo App - Laravel
+- [Restsuite](https://github.com/supanadit/restsuite) Rest API Testing - Java Desktop
+- [Restsuite V2](https://github.com/supanadit/restsuite-v2) Rest API Testing - Kotlin Desktop / Jetbrains Compose
+- [Geo Smart System](https://github.com/supanadit/geo-smart-system) Tracking System - Go
+- [Geo Smart Map](https://github.com/supanadit/geosmartmap) Live Map Tracking System for Geo Smart System - Angular
+- [Geo Smart App](https://github.com/supanadit/geo-smart-app) Mobile Tracking System for Geo Smart System - Flutter
+- [JWT Go](https://github.com/supanadit/jwt-go) JWT Handling for Golang - Go
+- [Mathics](https://github.com/supanadit/mathics) Mathematics Operation for Golang - Go
+- [Media](https://github.com/supanadit/media) Sharing public folder with Golang - Go
 
 
-##### Donation
+#### Archived / Discontinue / Pending Project
+
+- [Factory](https://github.com/supanadit/factory) Tools for DevOps - Go
+- [Operation X Backend](https://github.com/supanadit/operation-x-backend) CI/CD Tools - NodeJS / Express
+- [Operation X Frontend](https://github.com/supanadit/operation-x-frontend) UI Management Tools for Operation X - Angular
+- [Stay](https://github.com/supanadit/stay) Package manager for Golang - Go
+
+### Donation For My Work
 
 Bitcoin : bc1qzfh9462ua5mlxzddx7ukuzjj3mylhmy0a3czm8
 
