@@ -16,7 +16,7 @@ Email To : email@supanadit.com
 
 - [Short URL](https://github.com/supanadit/short-url) Bit.ly Alternative - Laravel
 - [Todo](https://github.com/supanadit/todo) Simple Todo App - Laravel
-- [Restsuite V2](https://github.com/supanadit/restsuite-v2) Rest API Testing - Kotlin Desktop / Jetbrains Compose
+- [Restsuite V2](https://github.com/supanadit/restsuite-v2) Rest API Testing - Kotlin Desktop / Jetbrains Compose + Swing
 - [Geo Smart System](https://github.com/supanadit/geo-smart-system) Tracking System - Go
 - [Geo Smart Map](https://github.com/supanadit/geosmartmap) Live Map Tracking System for Geo Smart System - Angular
 - [Geo Smart App](https://github.com/supanadit/geo-smart-app) Mobile Tracking System for Geo Smart System - Flutter
