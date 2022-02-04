@@ -16,7 +16,6 @@ Email To : email@supanadit.com
 
 - [Short URL](https://github.com/supanadit/short-url) Bit.ly Alternative - Laravel
 - [Todo](https://github.com/supanadit/todo) Simple Todo App - Laravel
-- [Restsuite](https://github.com/supanadit/restsuite) Rest API Testing - Java Desktop
 - [Restsuite V2](https://github.com/supanadit/restsuite-v2) Rest API Testing - Kotlin Desktop / Jetbrains Compose
 - [Geo Smart System](https://github.com/supanadit/geo-smart-system) Tracking System - Go
 - [Geo Smart Map](https://github.com/supanadit/geosmartmap) Live Map Tracking System for Geo Smart System - Angular
@@ -28,6 +27,7 @@ Email To : email@supanadit.com
 #### Archived / Discontinue / Pending Project
 
 - [Factory](https://github.com/supanadit/factory) Tools for DevOps - Go
+- [Restsuite](https://github.com/supanadit/restsuite) Rest API Testing - Java Desktop
 - [Operation X Backend](https://github.com/supanadit/operation-x-backend) CI/CD Tools - NodeJS / Express
 - [Operation X Frontend](https://github.com/supanadit/operation-x-frontend) UI Management Tools for Operation X - Angular
 - [Stay](https://github.com/supanadit/stay) Package manager for Golang - Go
