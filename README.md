@@ -4,7 +4,7 @@ Currently active on **Gitlab** and **Bitbucket**, Sometimes on Github for open s
 
 ### [Gitlab Activity](https://gitlab.com/nerveous)
 
-![Gitlab](https://github.com/supanadit/supanadit/blob/master/images/gitlab_activity.png)
+![Gitlab](https://github.com/supanadit/supanadit/blob/master/images/gitlab.png)
 
 ### Want To Work With Me
 
