@@ -32,10 +32,6 @@ Email To : email@supanadit.com
 - [Operation X Frontend](https://github.com/supanadit/operation-x-frontend) UI Management Tools for Operation X - Angular
 - [Stay](https://github.com/supanadit/stay) Package manager for Golang - Go
 
-#### Notes
-
-Why sometimes i labeling my app by language and by framework, that's because i just telling the technology they have heard of, instead of telling something that people don't know, for e.g Laravel, and not PHP, because Laravel more popular to search around PHP developer and non PHP Developer.
-
 ### Donation For My Work
 
 Bitcoin : bc1qzfh9462ua5mlxzddx7ukuzjj3mylhmy0a3czm8
