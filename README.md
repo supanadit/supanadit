@@ -1,11 +1,3 @@
-## Notes
-
-Currently active on **Gitlab** and **Bitbucket**, Sometimes on Github for open source thing.
-
-### [Gitlab Activity](https://gitlab.com/nerveous)
-
-![Gitlab](https://github.com/supanadit/supanadit/blob/master/images/gitlab.png)
-
 ### Want To Work With Me
 
 Email To : email@supanadit.com
@@ -31,9 +23,3 @@ Email To : email@supanadit.com
 - [Operation X Backend](https://github.com/supanadit/operation-x-backend) CI/CD Tools - NodeJS / Express
 - [Operation X Frontend](https://github.com/supanadit/operation-x-frontend) UI Management Tools for Operation X - Angular
 - [Stay](https://github.com/supanadit/stay) Package manager for Golang - Go
-
-### Donation For My Work
-
-Bitcoin : bc1qzfh9462ua5mlxzddx7ukuzjj3mylhmy0a3czm8
-
-Ethereum : 0x55b07B70Bb005D905d9989A7e0B83B4b6fEfAe22
