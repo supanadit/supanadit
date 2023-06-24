@@ -1,9 +1,3 @@
-### Want To Work With Me
-
-Email To : email@supanadit.com
-
-### My Awesome Work
-
 #### Active Project
 
 - [Short URL](https://github.com/supanadit/short-url) Bit.ly Alternative - Laravel
