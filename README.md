@@ -1,4 +1,4 @@
-![Full Stack Unicorn](./images/full-stack-unicorn-supan-adit-pratama-anime.png)
+![Full Stack Unicorn](./images/full-stack-anime-style-supan-adit-pratama.png)
 
 #### Active Project
 
