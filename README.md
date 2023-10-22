@@ -1,3 +1,5 @@
+![Full Stack Unicorn](./images/simple-full-stack-unicorn.png)
+
 #### Active Project
 
 - [Short URL](https://github.com/supanadit/short-url) Bit.ly Alternative - Laravel
