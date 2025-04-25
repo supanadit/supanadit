@@ -1,4 +1,4 @@
-![Full Stack Unicorn](./images/full-stack-anime-style-supan-adit-pratama.png)
+[![trophy](https://github-profile-trophy.vercel.app/?username=supanadit&theme=onedark&title=-Issues,-PullRequest,-Reviews)](https://github.com/supanadit)
 
 #### Active Project
 
