@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=supanadit&theme=onedark&title=-Issues,-PullRequest,-Reviews)](https://github.com/supanadit)
+[![trophy](https://github-profile-trophy.vercel.app/?username=supanadit&theme=onedark&title=-Issues,-PullRequest,-Reviews&margin-w=15&margin-h=15)](https://github.com/supanadit)
 
 #### Active Project
 
