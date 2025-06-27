@@ -2,7 +2,6 @@
 
 #### Active Project
 
-##### Available On Github
 - [Docker Textlive](https://github.com/supanadit/docker-texlive) Compile LaTeX documents in a consistent environment without needing to install Texlive on local machine
 - [Short URL](https://github.com/supanadit/short-url) Bit.ly Alternative - Laravel
 - [Todo](https://github.com/supanadit/todo) Simple Todo App - Laravel
