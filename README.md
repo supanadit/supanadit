@@ -4,7 +4,7 @@
 
 ##### Self Hosted Git
 
-- [Docker Textlive](https://git.supanadit.com/supanadit/docker-texlive) Compile LaTeX documents in a consistent environment without needing to install Texlive on local machine
+- [Docker Textlive](https://github.com/supanadit/docker-texlive) Compile LaTeX documents in a consistent environment without needing to install Texlive on local machine
 
 ##### Available On Github
 - [Short URL](https://github.com/supanadit/short-url) Bit.ly Alternative - Laravel
