@@ -2,11 +2,8 @@
 
 #### Active Project
 
-##### Self Hosted Git
-
-- [Docker Textlive](https://github.com/supanadit/docker-texlive) Compile LaTeX documents in a consistent environment without needing to install Texlive on local machine
-
 ##### Available On Github
+- [Docker Textlive](https://github.com/supanadit/docker-texlive) Compile LaTeX documents in a consistent environment without needing to install Texlive on local machine
 - [Short URL](https://github.com/supanadit/short-url) Bit.ly Alternative - Laravel
 - [Todo](https://github.com/supanadit/todo) Simple Todo App - Laravel
 - [Restsuite V2](https://github.com/supanadit/restsuite-v2) Rest API Testing - Kotlin Desktop / Jetbrains Compose + Swing
