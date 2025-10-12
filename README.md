@@ -1,4 +1,4 @@
-# Quick overview of my self
+# Brief Introduction
 
 I am a software developer with a passion for creating innovative and efficient solutions. I have experience in various programming languages and frameworks, and I enjoy working on both personal and collaborative projects. Below is a list of some of my projects, categorized by their current status.
 
