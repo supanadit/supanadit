@@ -2,8 +2,17 @@
 
 #### Active Project
 
-- [Fomoless](https://github.com/supanadit/fomoless) Productivity application with Pomodoro technique
+This is a list of my active projects that I am currently working on or maintaining. These projects are actively developed and receive regular updates, bug fixes, and new features. I commit to keeping these projects up-to-date and responsive to user feedback.
+
+- [PHPV](https://github.com/supanadit/phpv) PHP Version Manager, similar to nvm for Node.js
+- [Containers](https://github.com/supanadit/containers) Collection of Docker images for various applications and services.
 - [Docker Textlive](https://github.com/supanadit/docker-texlive) Compile LaTeX documents in a consistent environment without needing to install Texlive on local machine
+
+#### Hobby Project / Side Project
+
+These are projects that I work on in my free time or as side projects. They may not be actively maintained, but they are still available for use and exploration. These projects often serve as a way for me to experiment with new technologies, learn new skills, or simply have fun.
+
+- [Fomoless](https://github.com/supanadit/fomoless) Productivity application with Pomodoro technique
 - [Short URL](https://github.com/supanadit/short-url) Bit.ly Alternative - Laravel
 - [Todo](https://github.com/supanadit/todo) Simple Todo App - Laravel
 - [Restsuite V2](https://github.com/supanadit/restsuite-v2) Rest API Testing - Kotlin Desktop / Jetbrains Compose + Swing
@@ -15,6 +24,8 @@
 - [Media](https://github.com/supanadit/media) Sharing public folder with Golang - Go
 
 #### Archived / Discontinue / Pending Project
+
+These are projects that I have decided to archive, discontinue, or put on hold. They may no longer be actively maintained or developed, but they are still available for reference or exploration. These projects may have served their purpose or may not align with my current goals or interests.
 
 - [Factory](https://github.com/supanadit/factory) Tools for DevOps - Go
 - [Restsuite](https://github.com/supanadit/restsuite) Rest API Testing - Java Desktop
