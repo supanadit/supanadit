@@ -1,12 +1,6 @@
 # Brief Introduction
 
-I am a software developer with a passion for creating innovative and efficient solutions. I have experience in various programming languages and frameworks, and I enjoy working on both personal and collaborative projects. Below is a list of some of my projects, categorized by their current status.
-
-I'm start as Java Developer (Desktop), then PHP developer (Codeigniter, Laravel), then Wordpress developer (themes or plugins), then Frontend developer (Angular), then Mobile developer (Flutter, Android Native Java / Kotlin, Ionic), then Backend developer (Golang, NestJS, Moleculer JS, Python Flask), and now Lead DevOps Engineer (Docker, CI/CD, Kubernetes, Monitoring, Networking).
-
-Now I'm focusing working as Lead DevOps Engineer in [PT. Eigen Tri Mathema](https://eigen.co.id/). But sometimes the team still need my help to working with Backend (NestJS), Web (Wordpress, Laravel), or Mobile (Flutter, Android Native Java). I also responsible for publishing mobile apps to the Playstore.
-
-As Lead DevOps Engineer in [PT. Eigen Tri Mathema](https://eigen.co.id/), I do have responsibility to take care of our infrastructure such as Kubernetes Cluster, CI/CD Pipeline, and Monitoring System. Most of docker image that we use in our infrastructure is based on Bitnami's Docker images. But because Bitnami's Docker images now mostly is not free anymore, so I create my own collection of Docker images that built from scratch, and I maintain it in [Containers](https://github.com/supanadit/containers). The company use my containers repository as a base and extend it to fit our needs, security, policy, and compliance.
+I am a software developer with a passion for creating innovative and efficient solutions. I have experience in various programming languages and frameworks, and I enjoy working on both personal and collaborative projects.
 
 #### Active Project
 
