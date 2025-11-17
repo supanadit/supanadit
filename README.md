@@ -15,8 +15,6 @@ This is a list of my active projects that I am currently working on or maintaini
 These are projects that I work on in my free time or as side projects. They may not be actively maintained, but they are still available for use and exploration. These projects often serve as a way for me to experiment with new technologies, learn new skills, or simply have fun.
 
 - [Fomoless](https://github.com/supanadit/fomoless) Productivity application with Pomodoro technique
-- [Short URL](https://github.com/supanadit/short-url) Bit.ly Alternative - Laravel
-- [Todo](https://github.com/supanadit/todo) Simple Todo App - Laravel
 - [Restsuite V2](https://github.com/supanadit/restsuite-v2) Rest API Testing - Kotlin Desktop / Jetbrains Compose + Swing
 - [Geo Smart System](https://github.com/supanadit/geo-smart-system) Tracking System - Go
 - [Geo Smart Map](https://github.com/supanadit/geosmartmap) Live Map Tracking System for Geo Smart System - Angular
@@ -34,3 +32,5 @@ These are projects that I have decided to archive, discontinue, or put on hold. 
 - [Operation X Backend](https://github.com/supanadit/operation-x-backend) CI/CD Tools - NodeJS / Express
 - [Operation X Frontend](https://github.com/supanadit/operation-x-frontend) UI Management Tools for Operation X - Angular
 - [Stay](https://github.com/supanadit/stay) Package manager for Golang - Go
+- [Short URL](https://github.com/supanadit/short-url) Bit.ly Alternative - Laravel
+- [Todo](https://github.com/supanadit/todo) Simple Todo App - Laravel
