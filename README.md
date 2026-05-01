@@ -7,7 +7,7 @@ I build high-performance infrastructure, scalable observability stacks, and spec
 
 ### 💎 Featured Products & Open Source
 
-#### **[SQLGTX](https://sqlgtx.com)** — *Native Database IDE for VSCode* - Closed Source
+#### **[SQLGTX](https://marketplace.visualstudio.com/items?itemName=supanadit.sqlgtx-code&ssr=false#overview)** — *Native Database IDE for VSCode* - Closed Source
 A professional-grade, high-performance database client.
 
 #### **[PHPV](https://github.com/supanadit/phpv)** — *Open Source*
