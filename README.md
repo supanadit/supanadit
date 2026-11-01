@@ -5,13 +5,22 @@ I build high-performance infrastructure, scalable observability stacks, and spec
 
 ---
 
-### 💎 Featured Products & Open Source
+### 💎 Featured Open Source Work
 
-#### **[SQLGTX](https://marketplace.visualstudio.com/items?itemName=supanadit.sqlgtx-code&ssr=false#overview)** — *Native Database IDE for VSCode* - Closed Source
-A professional-grade, high-performance database client.
+#### **[PHPV](https://phpv.supanadit.com)** — *PHP Version Manager*
+Compiles PHP from source on Linux/macOS, automatically resolving and building dependency chains. `phpv install 8.4` just works. [GitHub](https://github.com/supanadit/phpv)
 
-#### **[PHPV](https://github.com/supanadit/phpv)** — *Open Source*
-The PHP version manager that handles the complexity of dependency chains, static linking, and LLVM toolchains. *Built for developers who demand consistency.*
+#### **[Forge](https://forge.supanadit.com)** — *Build Orchestrator*
+A TOML-driven replacement for shell setup scripts, with dependency ordering, parallel execution, caching, and cross-distro package management.
+
+#### **[EZX](https://ezx.supanadit.com)** — *Container Entrypoint Engine*
+A single Go binary that replaces bash entrypoint scripts with a declarative JavaScript config — process supervision, dependency graphs, health checks, and scheduling included.
+
+#### **[Containers](https://containers.supanadit.com)** — *Container Image Collection*
+21 declaratively-built, shell-free, non-root Docker images (PostgreSQL, Kafka, Grafana stack, and more). A transparent alternative to Bitnami. [GitHub](https://github.com/supanadit/containers)
+
+#### **[Morse](https://morse.supanadit.com)** — *GUI for Coding Agents*
+An agent-agnostic interface for coding agents like Pi and OpenCode, hosted as a VS Code panel or in the browser.
 
 ---
 
@@ -26,12 +35,6 @@ I architect solutions using the right tool for the job:
 - **Performance:** Go, Rust (Native Engines).
 - **Backend:** Java (Spring Boot), Python (FastAPI/Flask), TypeScript.
 - **Frontend & Mobile:** Angular, Flutter, VSCode Webview API.
-
----
-
-### 📂 Featured Work
-
-- **[Containers](https://github.com/supanadit/containers)** - Optimized Docker image collections.
 
 ---
 
